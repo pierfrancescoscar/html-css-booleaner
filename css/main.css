@@ -1,0 +1,23 @@
+/* General Settings */
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    width: 1500px;
+}
+
+/* Header Style Setup */
+
+header {
+    width: 1500px;
+    height: 150px;
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF
+    }
+
+/*Logo Styling*/
+
+    #logo {
+        padding: 75px 0px 20px 20px;
+        width: 250px;
+        }
