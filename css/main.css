@@ -4,8 +4,6 @@
 }
 body {
     width: 1500px;
-    
-    
     }
 
 /* Header Style Setup */
@@ -45,4 +43,26 @@ header {
 
 .bibliography {
     font-size: 12px;
+}
+
+/*Important Underlined Info*/
+.underlined_txt {
+    background-color: yellow;
+}
+
+/*Table Styling*/
+
+.table_data {
+    width: 1500px;
+    border-collapse: collapse;
+    
+}
+
+#table_titles {
+    background-color: #4EA0FF;
+    color: white;
+}
+
+.underlined_table_data {
+    background-color: #B1E5F2;
 }
