@@ -4,7 +4,9 @@
 }
 body {
     width: 1500px;
-}
+    
+    
+    }
 
 /* Header Style Setup */
 
@@ -21,3 +23,26 @@ header {
         padding: 75px 0px 20px 20px;
         width: 250px;
         }
+
+/*Credits Styling*/
+
+.written_by {
+    font-size: 16px;
+    color: #808080;
+}
+
+.author {
+    color: #4EA0FF;
+    
+}
+
+.date {
+    color: #808080;
+    font-size: 12px;
+}
+
+/*Bibliography Styling*/
+
+.bibliography {
+    font-size: 12px;
+}
